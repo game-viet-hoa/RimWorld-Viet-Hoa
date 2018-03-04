@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Torso.label>ngực</Torso.label>
+  <UpperHead.label>trán</UpperHead.label>
+  <FullHead.label>đầu</FullHead.label>
+  <Eyes.label>mắt</Eyes.label>
+  <Teeth.label>răng</Teeth.label>
+  <Mouth.label>miệng</Mouth.label>
+  <Neck.label>cổ</Neck.label>
+  <Arms.label>tay</Arms.label>
+  <Shoulders.label>vai</Shoulders.label>
+  <Hands.label>bàn tay</Hands.label>
+  <LeftHand.label>bàn tay trái</LeftHand.label>
+  <RightHand.label>bàn tay phải</RightHand.label>
+  <Waist.label>eo</Waist.label>
+  <Legs.label>chân</Legs.label>
+  <Feet.label>bàn chân</Feet.label>
+  <FrontLeftPaw.label>front left paw</FrontLeftPaw.label>
+  <FrontRightPaw.label>front right paw</FrontRightPaw.label>
+  <HeadAttackTool.label>head</HeadAttackTool.label>
+  <FrontLeftLeg.label>front left leg</FrontLeftLeg.label>
+  <FrontRightLeg.label>front right leg</FrontRightLeg.label>
+  <FrontLeftClaws.label>front left claws</FrontLeftClaws.label>
+  <FrontRightClaws.label>front right claws</FrontRightClaws.label>
+  <LeftBlade.label>left blade</LeftBlade.label>
+  <RightBlade.label>right blade</RightBlade.label>
+  <TuskAttackTool.label>tusks</TuskAttackTool.label>
+  <HornAttackTool.label>horn</HornAttackTool.label>
+  <HeadClaw.label>claw</HeadClaw.label>
+  <TurtleBeakAttackTool.label>beak</TurtleBeakAttackTool.label>
+  <Beak.label>beak</Beak.label>
+
+</LanguageData>

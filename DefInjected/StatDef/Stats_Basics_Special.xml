@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalPotency.label>medical potency</MedicalPotency.label>
+  <MedicalPotency.description>How effective this is when used to tend wounds and diseases, or do surgery. Higher medical potency improves the quality of tending, and acts as a multiplier on the chance of success during surgery. Surgery success chance is also affected by the surgeon and the surgery bed.</MedicalPotency.description>
+
+</LanguageData>

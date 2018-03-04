@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--=========== Main menu ==========-->
+  <Tutorial>Hướng dẫn</Tutorial>
+  <NewColony>Thuộc địa mới</NewColony>
+  <BackToGame>Quay lại Game</BackToGame>
+  <ReviewScenario>Review scenario</ReviewScenario>
+  <Save>Lưu</Save>
+  <LoadGame>Tải Game</LoadGame>
+  <Options>Tùy chọn</Options>
+  <Mods>Mods</Mods>
+  <Credits>Tác giả</Credits>
+  <QuitToMainMenu>Thoát ra Menu chính</QuitToMainMenu>
+  <SaveAndQuitToMainMenu>Lưu và thoát ra Menu</SaveAndQuitToMainMenu>
+  <QuitToOS>Thoát</QuitToOS>
+  <SaveAndQuitToOS>Lưu và thoát khỏi trò chơi</SaveAndQuitToOS>
+  <FictionPrimer>Fiction primer</FictionPrimer>
+  <LudeonBlog>Ludeon blog</LudeonBlog>
+  <Forums>Diễn đàn</Forums>
+  <OfficialWiki>Wiki chính chủ</OfficialWiki>
+  <TynansTwitter>Twitter Tynan</TynansTwitter>
+  <TynansDesignBook>Sách thiết kế của Tynan</TynansDesignBook>
+  <HelpTranslate>Trợ giúp dịch RimWorld</HelpTranslate>
+  <BuySoundtrack>Mua Soundtrack</BuySoundtrack>
+  <CreateWorld>Tạo thế giới</CreateWorld>
+
+  <!--=========== Create/review world ================-->
+  <ReviewWorld>Tổng quan thế giới</ReviewWorld>
+  <WorldGenerate>Khởi tạo</WorldGenerate>
+  <WorldSaveAndFinish>Lưu và hoàn tất</WorldSaveAndFinish>
+  <Reset>Tạo lại</Reset>
+  <PlanetCoverage>Globe coverage</PlanetCoverage>
+  <PlanetRainfall>Lượng mưa</PlanetRainfall>
+  <PlanetTemperature>Nhiệt độ</PlanetTemperature>
+  <PlanetRainfall_Low>Ít</PlanetRainfall_Low>
+  <PlanetRainfall_Normal>Bình thường</PlanetRainfall_Normal>
+  <PlanetRainfall_High>Nhiều</PlanetRainfall_High>
+  <PlanetTemperature_Low>Lạnh</PlanetTemperature_Low>
+  <PlanetTemperature_Normal>Bình thường</PlanetTemperature_Normal>
+  <PlanetTemperature_High>Nóng</PlanetTemperature_High>
+  <WorldSeed>Seed</WorldSeed>
+  <RandomizeSeed>Seed ngẫu nhiên</RandomizeSeed>
+  <PlanetCoverageTip>The planet is always the same diameter, but since it’s far larger than needed for play, we don’t generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated.</PlanetCoverageTip>
+  <WorldFactionsTab>Phe phái</WorldFactionsTab>
+
+  <!--=========== Select world ===================-->
+  <SelectWorld>Chọn thế giới</SelectWorld>
+  <WorldChooseButton>Chọn</WorldChooseButton>
+  <NoWorldsFilesFound>Không tìm thấy thế giới. Tạo một thế giới trước.</NoWorldsFilesFound>
+
+  <!--=========== Version info ==========-->
+  <BuildNowAvailable>Phiên bản {0} đã xuất hiện. Kiểm tra ludeon.com để có thêm thông tin.</BuildNowAvailable>
+  <BuildUpToDate>Đây là phiên bản mới nhất.</BuildUpToDate>
+  <ErrorGettingVersionInfo>Lỗi lấy thông tin phiên bản: {0}</ErrorGettingVersionInfo>
+  <LoadingVersionInfo>Đang tải thông tin phiên bản...</LoadingVersionInfo>
+
+  <!--=========== World generator =========-->
+  <GenerateWorld>Khởi tạo thế giới</GenerateWorld>
+
+  <!--=========== Mods config ==========-->
+  <OpenSteamWorkshop>Mở Steam Workshop</OpenSteamWorkshop>
+  <GetModsFromForum>Lấy mods từ diễn đàn</GetModsFromForum>
+  <OpenModsDataFolder>Mở thư mục Mods</OpenModsDataFolder>
+  <ConfirmDisableCoreMod>Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName.</ConfirmDisableCoreMod>
+  <ConfirmDeleteMod>Are you sure you want to delete all the content for {0}?</ConfirmDeleteMod>
+  <Unsubscribe>Bỏ đăng ký</Unsubscribe>
+  <ConfirmUnsubscribe>Chắc chắn muốn bỏ đăng ký {0}?</ConfirmUnsubscribe>
+  <Author>Tác giả</Author>
+  <WorkshopPage>Trang Workshop</WorkshopPage>
+  <UploadToSteamWorkshop>Tải lên Steam Workshop</UploadToSteamWorkshop>
+  <UpdateOnSteamWorkshop>Cập nhật lên Steam Workshop</UpdateOnSteamWorkshop>
+  <UploadAlreadyInProgress>Quá trình tải lên đang diễn ra.</UploadAlreadyInProgress>
+  <WorkshopSubmissionFailed>Workshop submission failed.\n\nReason: {0}</WorkshopSubmissionFailed>
+  <WorkshopUploadSucceeded>Tải lên {0} thành công.</WorkshopUploadSucceeded>
+  <Downloading>Đang tải xuống</Downloading>
+  <Source>Nguồn</Source>
+  <ModTargetVersion>Cho phiên bản: {0}</ModTargetVersion>
+  <ModNotMadeForThisVersion>This mod was not made for this version of RimWorld, and will probably not work correctly.</ModNotMadeForThisVersion>
+  <MessageModNeedsWellFormattedTargetVersion>Mod needs a well-formatted target version in About.xml. Like this: &lt;targetVersion&gt;{0}&lt;/targetVersion&gt;.</MessageModNeedsWellFormattedTargetVersion>
+  <DragToReorder>Kéo để sắp xếp lại</DragToReorder>
+
+  <!--=========== Select scenario =============-->
+  <ChooseScenario>Chọn kịch bản</ChooseScenario>
+  <ScenariosCustom>Tùy chỉnh</ScenariosCustom>
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <ScenarioEditor>Bộ chỉnh sửa kịch bản</ScenarioEditor>
+  <Delete>Xóa</Delete>
+
+  <!--============ Scenario editor ===============-->
+  <Seed>seed</Seed>
+  <Load>Tải</Load>
+  <EditMode>edit mode</EditMode>
+  <Summary>Summary</Summary>
+  <AddPart>Add part</AddPart>
+  <TextFieldsMustBeFilled>All text fields must be filled.</TextFieldsMustBeFilled>
+  <ConfirmSteamWorkshopUpload>Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <ConfirmContentAuthor>Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself?</ConfirmContentAuthor>
+  <Incompatible>Không tương thích</Incompatible>
+  <TooMany>Quá nhiều (tối đa {0}):</TooMany>
+  <CanBeUpdatedOnWorkshop>Can be updated on Workshop, since you are the author.</CanBeUpdatedOnWorkshop>
+
+  <!--=========== Select storyteller ==========-->
+  <ChooseAIStoryteller>Choose AI Storyteller</ChooseAIStoryteller>
+  <HowStorytellersWork>The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time.</HowStorytellersWork>
+  <MustChooseDifficulty>Please choose a difficulty setting.</MustChooseDifficulty>
+  <Difficulty>Độ khó</Difficulty>
+
+  <!--=========== Landing site select =========-->
+  <SelectLandingSite>Chọn nơi hạ cánh</SelectLandingSite>
+  <SelectRandomSite>Chọn nơi ngẫu nhiên</SelectRandomSite>
+  <SelectSite>Chọn nơi</SelectSite>
+  <MustSelectLandingSite>Xin lựa chọn nơi hạ cánh.</MustSelectLandingSite>
+  <CannotLandBiome>You cannot land on this biome: {0}</CannotLandBiome>
+  <BiomeNotImplemented>Biome not implemented</BiomeNotImplemented>
+  <CannotLandImpassableMountains>You cannot land on impassable mountains.</CannotLandImpassableMountains>
+  <BaseAlreadyThere>{0} đã có căn cứ ở đây.</BaseAlreadyThere>
+  <YourBaseAlreadyThere>Bạn đã có căn cứ ở đây.</YourBaseAlreadyThere>
+  <TileOccupied>Ô này đã bị chiếm.</TileOccupied>
+  <FactionBaseAdjacent>Settlements cannot be directly adjacent to each other.</FactionBaseAdjacent>
+  <Biome>Biome</Biome>
+  <Terrain>Địa hình</Terrain>
+  <Road>Đường</Road>
+  <River>Sông</River>
+  <Elevation>Độ cao</Elevation>
+  <Fertility>Độ màu mỡ</Fertility>
+  <AvgTemp>Nhiệt độ trung bình</AvgTemp>
+  <AvgSummerTemp>Nhiệt độ mùa hè: {0}</AvgSummerTemp>
+  <AvgWinterTemp>Nhiệt độ mùa đông: {0}</AvgWinterTemp>
+  <Rainfall>Lượng mưa</Rainfall>
+  <SpecialFeatures>Special features</SpecialFeatures>
+  <HasCoast0>bờ biển Bắc</HasCoast0>
+  <HasCoast1>bờ biển Đông</HasCoast1>
+  <HasCoast2>bờ biển Nam</HasCoast2>
+  <HasCoast3>bờ biển Tây</HasCoast3>
+  <HasCaves>caves</HasCaves>
+  <FactionBase>Faction base</FactionBase>
+  <StoneTypesHere>Loại đá</StoneTypesHere>
+  <TimeZone>Múi giờ</TimeZone>
+  <MovementTimeNow>Current movement time</MovementTimeNow>
+  <MovementTimeSummer>Summer movement time</MovementTimeSummer>
+  <MovementTimeWinter>Winter movement time</MovementTimeWinter>
+  <AnimalsCanGrazeNow>Animals can graze now</AnimalsCanGrazeNow>
+  <AverageDiseaseFrequency>Average disease frequency</AverageDiseaseFrequency>
+  <PerYear>mỗi năm</PerYear>
+
+
+  <!--=========== Character chooser ==========-->
+  <CreateCharacters>Tạo nhân vật</CreateCharacters>
+  <FirstNameDesc>The character's first name.\n\nThis is only displayed in certain menus.</FirstNameDesc>
+  <ShortIdentifierDesc>The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname.</ShortIdentifierDesc>
+  <LastNameDesc>The character's last name.\n\nThis is only displayed in certain menus.</LastNameDesc>
+  <Randomize>Ngẫu nhiên</Randomize>
+  <AgeIndicator>tuổi {0}</AgeIndicator>
+  <Backstory>Backstory</Backstory>
+  <IncapableOf>Incapable of</IncapableOf>
+  <Traits>Traits</Traits>
+  <PermanentMoodEffect>Permanent mood effect</PermanentMoodEffect>
+  <Skills>Kỹ năng</Skills>
+  <NoneLower>không</NoneLower>
+  <Adulthood>Thành niên</Adulthood>
+  <Childhood>Tuổi thơ</Childhood>
+  <Male>nam</Male>
+  <Female>nữ</Female>
+  <Pain>Pain</Pain>
+  <Health>Sức khỏe</Health>
+  <Relations>Mối quan hệ</Relations>
+  <TeamSkills>Team skills</TeamSkills>
+  <StartingPawnsSelected>Đã chọn</StartingPawnsSelected>
+  <StartingPawnsLeftBehind>Bỏ rơi</StartingPawnsLeftBehind>
+
+  <!--=========== Misc ==========-->
+  <Start>Bắt đầu</Start>
+  <Advanced>Nâng cao</Advanced>
+  <Next>Tiếp</Next>
+  <Back>Quay lại</Back>
+  <Gameplay>Gameplay</Gameplay>
+  <ConfirmQuit>Muốn thoát? Sẽ mất toàn bộ quá trình chơi chưa lưu.</ConfirmQuit>
+  <EveryoneNeedsValidName>Mỗi người cần một tên hợp lệ.</EveryoneNeedsValidName>
+  <Quit>Thoát</Quit>
+  <Ignore>Ignore</Ignore>
+
+  <!--============ Progress bar==============-->
+  <GeneratingWorld>Khởi tạo thế giới</GeneratingWorld>
+  <GeneratingPlanet>Khởi tạo hành tinh</GeneratingPlanet>
+  <GeneratingMap>Khởi tạo bản đồ</GeneratingMap>
+  <GeneratingMapForNewEncounter>Generating map for new encounter</GeneratingMapForNewEncounter>
+
+</LanguageData>

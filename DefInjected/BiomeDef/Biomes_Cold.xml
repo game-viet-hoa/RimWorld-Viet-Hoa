@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BorealForest.label>rừng phương Bắc</BorealForest.label>
+  <BorealForest.description>Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers. Snow makes it extremely slow to travel in winter.</BorealForest.description>
+
+  <Tundra.label>đài nguyên</Tundra.label>
+  <Tundra.description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators. Snow makes it extremely slow to travel in winter.</Tundra.description>
+
+  <ColdBog.label>đầm lầy lạnh lẽo</ColdBog.label>
+  <ColdBog.description>A wetland with few animals but lush vegetation. There's much more undergrowth and less trees than in typical swamps. Most of the land here can't support heavy structures which makes it difficult to survive.</ColdBog.description>
+
+  <IceSheet.label>dải băng</IceSheet.label>
+  <IceSheet.description>The surface is covered with sheets of ice which can be kilometers thick. No soil, no plants. The only animals here are migrating to somewhere else - or badly lost. Snow slows down travel, but there are ice sheets that provide smooth walking.</IceSheet.description>
+
+  <SeaIce.label>sea ice</SeaIce.label>
+  <SeaIce.description>Permanent ice sheets floating on water. There is no soil, no plants, no minerals to mine, and very few animals. Travel is very slow due to the deep snow and crevasses.</SeaIce.description>
+
+</LanguageData>

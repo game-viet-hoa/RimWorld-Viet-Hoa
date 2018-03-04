@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Cut.label>chém</Cut.label>
+  <Cut.deathMessage>{0} đã bị chém đến chết.</Cut.deathMessage>
+
+  <Crush.label>nghiền nát</Crush.label>
+  <Crush.deathMessage>{0} has been crushed to death.</Crush.deathMessage>
+
+  <Blunt.label>blunt</Blunt.label>
+  <Blunt.deathMessage>{0} has been beaten to death.</Blunt.deathMessage>
+
+
+  <!-- Damage types are the same as Blunt, but behaves like stabbing; intended for things like rifle barrels -->
+
+  <Poke.label>blunt</Poke.label>
+  <Poke.deathMessage>{0} đã bị đánh đến chết.</Poke.deathMessage>
+
+  <Stab.label>stab</Stab.label>
+  <Stab.deathMessage>{0} đã bị đâm đến chết.</Stab.deathMessage>
+
+  <Scratch.label>trầy xước</Scratch.label>
+  <Scratch.deathMessage>{0} đã chết do bị trầy xước.</Scratch.deathMessage>
+
+  <Bite.label>bite</Bite.label>
+  <Bite.deathMessage>{0} đã bị cắn đến chết.</Bite.deathMessage>
+
+  <ToxicBite.label>toxic bite</ToxicBite.label>
+  <ToxicBite.deathMessage>{0} đã bị cắn đến chết.</ToxicBite.deathMessage>
+
+</LanguageData>

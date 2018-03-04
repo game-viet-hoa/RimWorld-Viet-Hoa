@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <Audiovisuals>Âm thanh</Audiovisuals>
+  <GameVolume>Âm lượng trò chơi</GameVolume>
+  <MusicVolume>Âm lượng nhạc</MusicVolume>
+  <AmbientVolume>Âm lượng xung quanh</AmbientVolume>
+  <Antialiasing>Khử răng cưa</Antialiasing>
+
+  <!-- Gameplay -->
+  <EdgeScreenScroll>Screen-edge mouse scroll</EdgeScreenScroll>
+  <PauseOnLoad>Tạm dừng khi tải</PauseOnLoad>
+  <PauseOnUrgentLetter>Tạm dừng khi có thư khẩn</PauseOnUrgentLetter>
+  <CustomCursor>Tùy chỉnh chuột</CustomCursor>
+  <HatsShownOnlyOnMap>Hats shown only on game map</HatsShownOnlyOnMap>
+  <UIScale>Tỉ lệ UI</UIScale>
+  <KeyboardConfig>Thiết lập bàn phím</KeyboardConfig>
+  <ChooseLanguage>Lựa chọn ngôn ngữ</ChooseLanguage>
+  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
+  <AdaptiveTutorIsReset>Tutor is reset. You will be now be re-taught all lessons from scratch.</AdaptiveTutorIsReset>
+  <RunInBackground>Chạy ngầm</RunInBackground>
+  <DevelopmentMode>Chế độ phát triển lập trình</DevelopmentMode>
+  <ResetModsConfigOnCrash>Auto-reset mods config on crash</ResetModsConfigOnCrash>
+  <LogVerbose>Verbose logging</LogVerbose>
+  <OpenSaveGameDataFolder>Mở thư mục lưu Save</OpenSaveGameDataFolder>
+  <NamesYouWantToSee>Tên nhân vật do người chơi tạo:</NamesYouWantToSee>
+  <AddName>Thêm tên</AddName>
+  <TypeFirstNickOrLastName>Type the first name, nickname, or last name.</TypeFirstNickOrLastName>
+  <MessageAlreadyPreferredName>This name is already on the preferred list.</MessageAlreadyPreferredName>
+  <ChangeStoryteller>Chọn người dẫn chuyện</ChangeStoryteller>
+  <AutosaveInterval>Tần suất tự lưu</AutosaveInterval>
+  <TemperatureMode>Nhiệt độ</TemperatureMode>
+  <ShowRealtimeClock>Hiển thị đồng hồ thực tế</ShowRealtimeClock>
+  <MaxNumberOfPlayerHomes>Số thuộc địa tối đa: {0}</MaxNumberOfPlayerHomes>
+  <PlantWindSway>Thực vật lắc lư theo gió</PlantWindSway>
+  <MaxPermadeathAutosaveIntervalInfo>Maximum autosave interval in permadeath mode is {0} day.</MaxPermadeathAutosaveIntervalInfo>
+  <ModSettings>Cài đặt Mod</ModSettings>
+
+  <!-- Resolution -->
+  <Resolution>Độ phân giải</Resolution>
+  <Fullscreen>Toàn màn hình</Fullscreen>
+
+  <!-- Privacy -->
+  <Privacy>Privacy</Privacy>
+  <UserName>User name</UserName>
+  <ChooseHistoryUploadPref>Gameplay data upload pref.</ChooseHistoryUploadPref>
+  <AboutHistoryUpload>Users gameplay data helps developers balance the game. If you agree, your information will be sent every {0} game days (and in some other rare cases like the end of the game) to the RimWorld server and then analyzed. Uploaded gameplay data consists only of statistics and history records related to the game - no personal information is sent, except for user name, which means it is completely anonymous.</AboutHistoryUpload>
+
+  <!-- Mods -->
+  <SelectMod>Select mod...</SelectMod>
+  <NoConfigurableMods>No configurable mods loaded.</NoConfigurableMods>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalTendSpeed.label>medical tend speed</MedicalTendSpeed.label>
+  <MedicalTendSpeed.description>Speed at which the character tends to wounds and illnesses as a doctor.</MedicalTendSpeed.description>
+
+  <MedicalTendQuality.label>medical tend quality</MedicalTendQuality.label>
+  <MedicalTendQuality.description>Quality of tending given to patients when acting as a doctor.</MedicalTendQuality.description>
+
+  <MedicalOperationSpeed.label>medical operation speed</MedicalOperationSpeed.label>
+  <MedicalOperationSpeed.description>Speed at which the character performs medical operations.</MedicalOperationSpeed.description>
+
+  <MedicalSurgerySuccessChance.label>medical surgery success chance</MedicalSurgerySuccessChance.label>
+  <MedicalSurgerySuccessChance.description>The chance that a character will perform surgery successfully. The success chance is also affected by the bed and area of the operation, medicine used, and the difficulty of the surgery.</MedicalSurgerySuccessChance.description>
+
+</LanguageData>

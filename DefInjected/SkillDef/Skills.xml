@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Shooting.label>shooting</Shooting.label>
+  <Shooting.description>Use of all kinds of ranged weapons.</Shooting.description>
+  <Shooting.skillLabel>shooting</Shooting.skillLabel>
+
+  <Melee.label>cận chiến</Melee.label>
+  <Melee.description>Use of all kinds of melee weapons as well as unarmed combat.</Melee.description>
+  <Melee.skillLabel>cận chiến</Melee.skillLabel>
+
+  <Social.label>social</Social.label>
+  <Social.description>Negotiating, convincing, manipulating, leading, and cheering up others.</Social.description>
+  <Social.skillLabel>social</Social.skillLabel>
+
+  <Animals.label>animals</Animals.label>
+  <Animals.description>Taming, training, managing, and controlling animals.</Animals.description>
+  <Animals.skillLabel>animals</Animals.skillLabel>
+
+  <Medicine.label>medicine</Medicine.label>
+  <Medicine.description>Treating wounds and diseases and doing surgery.</Medicine.description>
+  <Medicine.skillLabel>medicine</Medicine.skillLabel>
+
+  <Cooking.label>nấu ăn</Cooking.label>
+  <Cooking.description>Đang tạo ra các món ăn từ những nguyên liệu thô.</Cooking.description>
+  <Cooking.skillLabel>nấu ăn</Cooking.skillLabel>
+
+  <Construction.label>xây dựng</Construction.label>
+  <Construction.description>Better constructors build structures and furniture faster and of higher quality.</Construction.description>
+  <Construction.skillLabel>xây dựng</Construction.skillLabel>
+
+  <Growing.label>growing</Growing.label>
+  <Growing.description>Sowing, caring for, and harvesting crops.</Growing.description>
+  <Growing.skillLabel>growing</Growing.skillLabel>
+
+  <Mining.label>mining</Mining.label>
+  <Mining.description>Digging tunnels and extracting mineral or buried resources.</Mining.description>
+  <Mining.skillLabel>mining</Mining.skillLabel>
+
+  <Artistic.label>artistic</Artistic.label>
+  <Artistic.description>Crafting art.</Artistic.description>
+  <Artistic.skillLabel>artistic</Artistic.skillLabel>
+
+  <Crafting.label>crafting</Crafting.label>
+  <Crafting.description>Crafting general items including weapons and tools.</Crafting.description>
+  <Crafting.skillLabel>crafting</Crafting.skillLabel>
+
+  <Intellectual.label>intellectual</Intellectual.label>
+  <Intellectual.description>Investigating evidence, making connections, calculating and using logic.</Intellectual.description>
+  <Intellectual.skillLabel>intellectual</Intellectual.skillLabel>
+
+</LanguageData>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Torso.label>ngực</Torso.label>
+  <LeftShoulder.label>vai trái</LeftShoulder.label>
+  <LeftArm.label>tay trái</LeftArm.label>
+  <LeftHand.label>bàn tay trái</LeftHand.label>
+  <LeftHandPinky.label>ngón út (trái)</LeftHandPinky.label>
+  <LeftHandRingFinger.label>ngón áp út (trái)</LeftHandRingFinger.label>
+  <LeftHandMiddleFinger.label>ngón giữa (trái)</LeftHandMiddleFinger.label>
+  <LeftHandIndexFinger.label>ngón trỏ (trái)</LeftHandIndexFinger.label>
+  <LeftHandThumb.label>ngón cái (trái)</LeftHandThumb.label>
+  <RightShoulder.label>vai phải</RightShoulder.label>
+  <RightArm.label>tay phải</RightArm.label>
+  <RightHand.label>bàn tay phải</RightHand.label>
+  <RightHandPinky.label>ngón út (phải)</RightHandPinky.label>
+  <RightHandRingFinger.label>ngón áp út (phải)</RightHandRingFinger.label>
+  <RightHandMiddleFinger.label>ngón giữa (phải)</RightHandMiddleFinger.label>
+  <RightHandIndexFinger.label>ngón trỏ (phải)</RightHandIndexFinger.label>
+  <RightHandThumb.label>ngón cái (phải)</RightHandThumb.label>
+  <Waist.label>eo</Waist.label>
+  <LeftFootLittleToe.label>ngón chân út (trái)</LeftFootLittleToe.label>
+  <LeftFootFourthToe.label>ngón chân áp út (trái)</LeftFootFourthToe.label>
+  <LeftFootMiddleToe.label>ngón chân giữa (trái)</LeftFootMiddleToe.label>
+  <LeftFootSecondToe.label>ngón chân áp giữa (trái)</LeftFootSecondToe.label>
+  <LeftFootBigToe.label>ngón chân cái (trái)</LeftFootBigToe.label>
+  <RightFootLittleToe.label>ngón chân út (phải)</RightFootLittleToe.label>
+  <RightFootFourthToe.label>ngón chân áp út (phải)</RightFootFourthToe.label>
+  <RightFootMiddleToe.label>ngón chân giữa (phải)</RightFootMiddleToe.label>
+  <RightFootSecondToe.label>ngón chân áp giữa (phải)</RightFootSecondToe.label>
+  <RightFootBigToe.label>ngón chân cái (phải)</RightFootBigToe.label>
+
+
+  <!-- Bones -->
+
+  <LeftClavicle.label>xương đòn trái</LeftClavicle.label>
+  <RightClavicle.label>xương đòn phải</RightClavicle.label>
+  <Sternum.label>xương ức</Sternum.label>
+  <LeftHumerus.label>xương cánh tay trái</LeftHumerus.label>
+  <RightHumerus.label>xương cánh tay phải</RightHumerus.label>
+  <LeftRadius.label>xương quay trái</LeftRadius.label>
+  <RightRadius.label>xương quay phải</RightRadius.label>
+  <Pelvis.label>xương chậu</Pelvis.label>
+  <LeftFemur.label>xương đùi trái</LeftFemur.label>
+  <RightFemur.label>xương đùi phải</RightFemur.label>
+  <LeftTibia.label>xương ống chân trái</LeftTibia.label>
+  <RightTibia.label>xương ống chân phải</RightTibia.label>
+
+</LanguageData>

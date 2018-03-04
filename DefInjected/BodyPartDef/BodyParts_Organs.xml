@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Heart.label>tim</Heart.label>
+  <LeftLung.label>phổi trái</LeftLung.label>
+  <RightLung.label>phổi phải</RightLung.label>
+  <LeftKidney.label>thận trái</LeftKidney.label>
+  <RightKidney.label>thận phải</RightKidney.label>
+  <Liver.label>gan</Liver.label>
+  <Stomach.label>dạ dày</Stomach.label>
+
+</LanguageData>

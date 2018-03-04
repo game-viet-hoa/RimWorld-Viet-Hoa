@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- close family -->
+
+  <Parent.label>bố</Parent.label>
+  <Parent.labelFemale>mẹ</Parent.labelFemale>
+
+  <Child.label>con trai</Child.label>
+  <Child.labelFemale>con gái</Child.labelFemale>
+
+  <Sibling.label>anh trai</Sibling.label>
+  <Sibling.labelFemale>chị gái</Sibling.labelFemale>
+
+  <HalfSibling.label>em trai</HalfSibling.label>
+  <HalfSibling.labelFemale>em gái</HalfSibling.labelFemale>
+
+  <Grandparent.label>ông</Grandparent.label>
+  <Grandparent.labelFemale>bà</Grandparent.labelFemale>
+
+  <Grandchild.label>cháu trai</Grandchild.label>
+  <Grandchild.labelFemale>cháu gái</Grandchild.labelFemale>
+
+  <NephewOrNiece.label>nephew</NephewOrNiece.label>
+  <NephewOrNiece.labelFemale>niece</NephewOrNiece.labelFemale>
+
+  <UncleOrAunt.label>uncle</UncleOrAunt.label>
+  <UncleOrAunt.labelFemale>aunt</UncleOrAunt.labelFemale>
+
+  <Cousin.label>cousin</Cousin.label>
+  <Cousin.labelFemale>cousin</Cousin.labelFemale>
+
+
+  <!-- distant family -->
+
+  <GreatGrandparent.label>great grandfather</GreatGrandparent.label>
+  <GreatGrandparent.labelFemale>great grandmother</GreatGrandparent.labelFemale>
+
+  <GreatGrandchild.label>great grandson</GreatGrandchild.label>
+  <GreatGrandchild.labelFemale>great granddaughter</GreatGrandchild.labelFemale>
+
+  <GranduncleOrGrandaunt.label>granduncle</GranduncleOrGrandaunt.label>
+  <GranduncleOrGrandaunt.labelFemale>grandaunt</GranduncleOrGrandaunt.labelFemale>
+
+  <GrandnephewOrGrandniece.label>grandnephew</GrandnephewOrGrandniece.label>
+  <GrandnephewOrGrandniece.labelFemale>grandniece</GrandnephewOrGrandniece.labelFemale>
+
+  <CousinOnceRemoved.label>cousin once removed</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>cousin once removed</CousinOnceRemoved.labelFemale>
+
+  <SecondCousin.label>second cousin</SecondCousin.label>
+  <SecondCousin.labelFemale>second cousin</SecondCousin.labelFemale>
+
+
+  <!-- kin -->
+
+  <Kin.label>họ hàng</Kin.label>
+  <Kin.labelFemale>họ hàng</Kin.labelFemale>
+
+</LanguageData>
